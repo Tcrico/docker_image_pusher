@@ -1,4 +1,1 @@
-nginx
-
-chishin/wol-go-web
-networkstatic/iperf3
+adolfintel/speedtest
